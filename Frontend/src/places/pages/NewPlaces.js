@@ -98,6 +98,8 @@ const NewPlace = () => {
         />
         <ImageUpload
           id="image"
+          label="Please upload a picture of the place."
+          buttonText="UPLOAD PLACE PICTURE"
           onInput={inputHandler}
           errorText="Please upload an image."
         />

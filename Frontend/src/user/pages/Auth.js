@@ -130,8 +130,10 @@ const Auth = () => {
             <ImageUpload
               center
               id="image"
+              label="Please upload a profile picture."
+              buttonText="UPLOAD PROFILE PICTURE"
               onInput={inputHandler}
-              errorText="PLease upload an image."
+              errorText="Please upload an image."
             />
           )}
           <Input
