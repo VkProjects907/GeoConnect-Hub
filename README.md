@@ -6,8 +6,7 @@ This is a file upload sharing web application for users to signup and login to a
 
 There are two methods to view the web application. You can either click on the link to view the web application or follow the instructions below to run it locally.
 
-Links: www.geoconnecthub.com
-geoconnecthub.com
+Link: www.geoconnecthub.com
 
 ## Run Locally using git
 
