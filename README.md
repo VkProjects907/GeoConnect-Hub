@@ -16,11 +16,17 @@ Clone the project
   git clone https://github.com/VkProjects907/GeoConnect-Hub.git
 ```
 
+Go to the project folder directory
+
+```bash
+cd ./GeoConnect-Hub
+```
+
 Go to the project directory
 
 ```bash
-  cd .\Frontend\
-  cd .\Backend\
+  cd ./Frontend/
+  cd ./Backend/
 ```
 
 Install dependencies
@@ -52,7 +58,7 @@ Extract All Files
 Go to the project directory
 
 ```bash
-cd MERN-stack
+cd GeoConnect-Hub-main
 ```
 
 ```bash
